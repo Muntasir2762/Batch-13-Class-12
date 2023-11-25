@@ -1,0 +1,26 @@
+
+.box1{
+    background-color: rgba(100, 34, 12, 0.5);
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.box2{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    /* display: none; */
+    visibility: hidden;
+}
+
+.box3{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+/* .home{
+    display: block;
+} */
